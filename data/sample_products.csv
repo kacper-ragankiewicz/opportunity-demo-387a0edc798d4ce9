@@ -1,0 +1,5 @@
+sku,name,price,stock,status,categories,images,slug,parent_sku,attributes
+MUG-001,Ceramic Mug,29.90,42,publish,Home > Mugs,https://img.example.com/mug.jpg,,,
+TSHIRT-001,Classic T-Shirt,,,publish,Men> T-Shirts,https://img.example.com/shirt-parent.jpg,,,
+TSHIRT-001-BLK-M,Classic T-Shirt Black M,79.00,8,publish,Men > T-Shirts,https://img.example.com/shirt-black-m.jpg,,TSHIRT-001,Color=Black|Size=M
+TSHIRT-001-BLK-L,Classic T-Shirt Black L,79.00,5,publish,Men > T-Shirts,https://img.example.com/shirt-black-l.jpg,,TSHIRT-001,Color=Black|Size=L
