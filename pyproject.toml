@@ -1,0 +1,5 @@
+[project]
+name = "woocommerce-migration-audit-proof"
+version = "0.1.0"
+description = "Minimal WooCommerce catalog migration audit proof"
+requires-python = ">=3.10"
